@@ -6,7 +6,7 @@ METODO DE EJECUCIÓN:
   npm install
   npm run dev
   
-  Server ready in 'http://localhost:3000' 
+  Server ready in 'http://localhost:5173' 
  
 
 //HOMEPAGE
