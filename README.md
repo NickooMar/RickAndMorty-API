@@ -3,8 +3,13 @@ METODO DE EJECUCIÓN:
   git clone https://github.com/NickooMar/RickAndMorty-API.git
   
   cd RickAndMorty-API
+  
+  
   npm install
+  
+  
   npm run dev
+  
   
   Server ready in 'http://localhost:5173' 
  
